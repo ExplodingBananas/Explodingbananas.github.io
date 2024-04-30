@@ -9,7 +9,7 @@
 - [x] add a header to my page
 - [x] add an image banner
 - [x] make 2x reposotory, one for home page, one for hello world
-- [ ] add a link to my hello world webpage
+- [x] add a link to my hello world webpage
 - [ ] add to index.html of HelloWorld
 - [ ] add color to my hello world web page.
 
