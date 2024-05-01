@@ -23,5 +23,3 @@ more exploding bananas [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
 [about page](https://explodingbananas.github.io/HelloWorld/)
 
 </body>
-
-</html>
