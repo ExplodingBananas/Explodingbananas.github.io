@@ -16,7 +16,8 @@
 - [ ] add an image/s to your hello world page
 - [ ] add a hyperlink back to your main webpage on your hello world webpage
 
-more exploding bananas [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
-
 ### checkout the rest of the website down below
-[about page](https://explodingbananas.github.io/HelloWorld/)
+#### [about page](https://explodingbananas.github.io/HelloWorld/)
+
+
+###### banana exploding video [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
