@@ -11,7 +11,7 @@
 - [x] make 2x reposotory, one for home page, one for hello world
 - [x] add a link to my hello world webpage
 - [x] add to index.html of HelloWorld
-- [x] add color to my hello world web page.
+- [ ] add color to my hello world web page.
 
 more exploding bananas [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
 
