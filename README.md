@@ -1,5 +1,4 @@
-<body  style="background-color:BurlyWood;">
-  
+
 # welcome to Exploding Bananas
 
 ### **your one stop shop for exploding banannas and other various foods exploding**
@@ -16,10 +15,8 @@
 - [x] center your text on your hello world page.
 - [ ] add an image/s to your hello world page
 - [ ] add a hyperlink back to your main webpage on your hello world webpage
-
+# 
 more exploding bananas [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
 
 ### checkout the rest of the website down below
 [about page](https://explodingbananas.github.io/HelloWorld/)
-
-</body>
