@@ -20,6 +20,8 @@
 - [x] add a link to my hello world webpage
 - [x] add style to your hello world page with background colors, text color, fonts, and font size
 - [x] center your text on your hello world page.
+- [ ] add an image/s to your hello world page
+- [ ] add a hyperlink back to your main webpage on your hello world webpage
 
 more exploding bananas [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
 
