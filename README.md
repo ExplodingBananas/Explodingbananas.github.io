@@ -1,9 +1,3 @@
-<html>
-
-  <head>
-    
-  </head>
-
 <body  style="background-color:BurlyWood;">
   
 # welcome to Exploding Bananas
