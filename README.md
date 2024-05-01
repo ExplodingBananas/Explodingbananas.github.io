@@ -27,7 +27,7 @@ more exploding bananas [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
 
 ### checkout the rest of the website down below
 [about page](https://explodingbananas.github.io/HelloWorld/)
-[page three]
 
 </body>
+
 </html>
