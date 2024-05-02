@@ -15,6 +15,7 @@
 - [x] center your text on your hello world page.
 - [x] add an image/s to your hello world page
 - [x] add a hyperlink back to your main webpage on your hello world webpage
+- [ ] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages.)
 
 ### checkout the rest of the website down below
 #### [about page](https://explodingbananas.github.io/HelloWorld/)
