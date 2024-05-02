@@ -18,6 +18,6 @@
 
 ### checkout the rest of the website down below
 #### [about page](https://explodingbananas.github.io/HelloWorld/)
-#### [why would i do this?](https://explodingbananas.github.io/why-/))
+#### [why would i do this?](https://explodingbananas.github.io/why-/)
 
 ###### banana exploding video [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
