@@ -1,7 +1,7 @@
 
 # welcome to Exploding Bananas
 
-## **your one stop shop for exploding banannas and other various foods exploding**
+## **your one stop shop for banannas**
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ![BananaExplodingGif](https://i.makeagif.com/media/12-06-2015/f5WCKL.gif) 
 ###### this is just one example of the experiences that you may aquire through my website
@@ -19,7 +19,7 @@
 
 ## checkout the rest of the website down below
 ### [about page](https://explodingbananas.github.io/HelloWorld/)
-### [banana fatcs](https://explodingbananas.github.io/why-/)
-### [banana images](https://explodingbananas.github.io/catalog/)
+### [banana ffatcs](https://explodingbananas.github.io/why-/)
+### [banana immages](https://explodingbananas.github.io/catalog/)
 
 ###### banana exploding video [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
