@@ -21,5 +21,6 @@
 ### [about page](https://explodingbananas.github.io/HelloWorld/)
 ### [banana ffatcs](https://explodingbananas.github.io/why-/)
 ### [banana immages](https://explodingbananas.github.io/catalog/)
+### [rubric](https://explodingbananas.github.io/rubric/)
 
 ###### banana exploding video [**HERE**](https://www.youtube.com/watch?v=s0Vw0I-PhcA)
