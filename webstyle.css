@@ -1,0 +1,38 @@
+ h1{text-align: center; 
+    background-color:Gold;  
+    font-family:Brush Script MT;  
+    font-size:750%;  
+    text-shadow:7px 7px 0 GoldenRod;
+   }
+button{
+ font-size:150%;
+}
+  h2{text-align: center;
+      background-color:Bisque;  
+     font-family:Brush Script MTs;  
+     font-size:250%;  
+     text-shadow:4px 4px 0 BurlyWood;
+    }
+     p{text-align: center; 
+       background-color:Bisque;  
+       font-family:Brush Script MTs;  
+       font-size:200%; 
+       text-shadow:3px 3px 0 BurlyWood;
+      }
+ul{
+  background-color:Bisque;  
+  font-family:Brush Script MTs;
+  text-shadow:3px 3px 0 BurlyWood;
+}
+li{
+  background-color:Bisque;  
+  font-family:Brush Script MTs;  
+  font-size:175%; 
+  text-shadow:3px 3px 0 BurlyWood;
+}
+   body{
+  background-image: url(https://th.bing.com/th/id/R.717bc57aa9ec8e4d0f52565b344abd1c?rik=kTwuO5m0Rmg9%2bA&riu=http%3a%2f%2fstatic.twentytwowords.com%2fwp-content%2fuploads%2fBanana-Exploding.jpg&ehk=Lcdkwl4Y6aW4%2f1MtfN%2bqbKHHrfz3KaZ1Y0BVHL5fb0E%3d&risl=&pid=ImgRaw&r=0);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
