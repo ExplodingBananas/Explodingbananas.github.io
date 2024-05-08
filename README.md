@@ -16,6 +16,8 @@
 - [x] add an image/s to your hello world page
 - [x] add a hyperlink back to your main webpage on your hello world webpage
 - [x] Add a css stylesheet to your html files. (this will be unifrom text formatting for all your webpages.)
+- [x] add the rubric webapge to your main page of your website.
+- [x] add a paragraph about your chosen topic.
 
 ## checkout the rest of the website down below
 ### [about page](https://explodingbananas.github.io/HelloWorld/)
