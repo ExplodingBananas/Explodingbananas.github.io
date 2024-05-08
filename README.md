@@ -19,8 +19,8 @@
 - [x] add the rubric webapge to your main page of your website.
 - [ ] add a paragraph about your chosen topic.
 
-## checkout the rest of the website down below
-### [about page](https://explodingbananas.github.io/HelloWorld/)
+# checkout the rest of the website down below
+## [about page](https://explodingbananas.github.io/HelloWorld/)
 ### [banana ffatcs](https://explodingbananas.github.io/why-/)
 ### [banana immages](https://explodingbananas.github.io/catalog/)
 ### [banana recipies](https://explodingbananas.github.io/recipies/)
