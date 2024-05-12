@@ -23,6 +23,7 @@
 ## [about page](https://explodingbananas.github.io/HelloWorld/)
 ### [banana ffatcs](https://explodingbananas.github.io/why-/)
 ### [banana immages](https://explodingbananas.github.io/catalog/)
+### [banana videos](https://explodingbananas.github.io/videos/)
 ### [banana recipies](https://explodingbananas.github.io/recipies/)
 ### [banana near you](https://explodingbananas.github.io/bananawhere/)
 
